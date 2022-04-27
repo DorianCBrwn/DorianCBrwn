@@ -42,8 +42,5 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
                       href="http://www.github.com/DorianCBrwn"><img src="https://github-readme-stats.vercel.app/api?username=DorianCBrwn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DorianCBrwn's GitHub stats" /></a><a href="https://github.com/DorianCBrwn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorianCBrwn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
-<<<<<<< HEAD
 <a href="https://www.buymeacoffee.com/doriancb"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-=======
-<href="https://www.buymeacoffee.com/doriancb"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></href=>
->>>>>>> 397b1aa1188a07eb51d410fd20035a796fe72db5
+
