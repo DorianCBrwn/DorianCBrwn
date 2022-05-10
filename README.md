@@ -13,7 +13,7 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
 
 
 <a href="https://www.twitter.com/DorianCBrwn" target="_blank" rel="noreferrer"> 
-  <img src="https://img.shields.io/twitter/follow/DorianCBrwnlogo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"> 
+  <img src="https://img.shields.io/twitter/follow/DorianCBrwn?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"> 
 </a>
  
  <hr/>
