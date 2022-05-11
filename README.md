@@ -69,6 +69,9 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
 </a>
 
 
+<a href="https://github.com/DorianCBrwn/guess_es">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DorianCBrwn&repo=guess_es&theme=dracula" />
+</a>
 
 
 
