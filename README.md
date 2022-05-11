@@ -18,6 +18,16 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
  
  <hr/>
  
+ ## &#x270d; Blog & Writing
+ 
+ When I have time I love to write about what I'm learning and the different coding challenges I've overcome. Check out some of posts at hashnode
+ [Dorianb.dev](https://dorianb.hashnode.dev/).
+ 
+ <!-- BLOG-POST-LIST:START -->
+ - [Inspecting-the-Toggle](https://dorianb.hashnode.dev/inspecting-the-toggle)
+ <!-- BLOG-POST-LIST:END -->
+ 
+ 
  ### Skills
  
  <p align="left">
@@ -47,10 +57,39 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
 
 ### Badges
 
-<b>My GitHub Stats</b>
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/DorianCBrwn" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorianCBrwn&langs_count=5&theme=dracula&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
 
-<a href="http://www.github.com/DorianCBrwn"><img src="https://github-readme-stats.vercel.app/api?username=DorianCBrwn&show_icons=true&hide=&count_private=true&show_icons=true&theme=dracula" alt="DorianCBrwn's GitHub stats" /></a><a href="https://github.com/DorianCBrwn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorianCBrwn&langs_count=10&theme=dracula&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/DorianCBrwn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DorianCBrwn&show_icons=true&hide=&count_private=true&show_icons=true&theme=dracula" alt="DorianCBrwn's GitHub stats" />
+</a>
 
-### Support Me
+
+
+## 🔧 Technologies & Tools
+
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazon"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+</p>
+
+
+### If you like my conttributions feel free to buy me Tea
 <a href="https://www.buymeacoffee.com/doriancb"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
+
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
