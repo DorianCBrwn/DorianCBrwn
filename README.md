@@ -52,19 +52,6 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
 
  
 
-### Socials
-
-<p align="center">
-
-<a href="https://dorianb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-
-<a href="https://www.linkedin.com/in/dorian-brown-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-
-<a href="https://www.twitter.com/DorianCBrwn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
-
-### Badges
-
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/DorianCBrwn" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorianCBrwn&langs_count=5&theme=dracula&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
