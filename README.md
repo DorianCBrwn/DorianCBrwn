@@ -39,7 +39,7 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
     <img src="https://img.shields.io/static/v1?label=|&message=RAILS&color=cdf998&style=plastic&logo=ruby-on-rails"/>
     <img src="https://img.shields.io/static/v1?label=|&message=RUST&color=8fbc56&style=plastic&logo=rust"/>
     <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=cdf998&style=plastic&logo=amazon"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=PostgreSQL&color=98bf53&style=plastic&logo=postgresq"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PostgreSQL&color=98bf53&style=plastic&logo=postgresql"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=98bf53&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=cdd148&style=plastic&logo=figma"/>
