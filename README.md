@@ -18,6 +18,9 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<a href="https://dorianb.hashnode.dev/">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
+</a>
 
  
  <hr/>
