@@ -42,7 +42,8 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
 
 <a href="https://www.linkedin.com/in/dorian-brown-525bb250" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
-<a href="https://www.twitter.com/DorianCBrwn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://www.twitter.com/DorianCBrwn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 
 ### Badges
 
