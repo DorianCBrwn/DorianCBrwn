@@ -61,7 +61,7 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
 </a>
 
 <a href="http://www.github.com/DorianCBrwn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DorianCBrwn&show_icons=true&hide=&count_private=true&show_icons=true&theme=dracula" alt="DorianCBrwn's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DorianCBrwn&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="DorianCBrwn's GitHub stats" />
 </a>
 
 
@@ -70,7 +70,7 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
 
 
 
-### If you like my conttributions feel free to buy me Tea
+### If you like my conttributions feel free to buy me Tea/Coffee
 <a href="https://www.buymeacoffee.com/doriancb"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
