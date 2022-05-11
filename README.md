@@ -1,8 +1,6 @@
-Hi 👋 My name is Dorian C Brown
+Hi 👋 My name is Dorian C Brown and I'm a software engineer at 100Devs. 
 ===============================
 
-Software Engineer
------------------
 
 I'm a learn-a-holic who is constatnly working on improving my skills and learning new techniques.
 
@@ -11,10 +9,16 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
 *   🤝  I'm open to collaborating on awesome Javascript projects
 *   ⚡  I also love learning languages so I'm currently learning Spanish too.
 
-
+## Lets Connect
 <a href="https://www.twitter.com/DorianCBrwn" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/twitter/follow/DorianCBrwn?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"> 
 </a>
+
+<a href="https://www.linkedin.com/in/dorian-brown-dev" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/linkedIn/DorianCBrwn?logo=linkedin&style=for-the-badge&color=0891b2&labelColor=1c1917"> 
+</a>
+
+
  
  <hr/>
  
@@ -27,6 +31,7 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
  - [Inspecting-the-Toggle](https://dorianb.hashnode.dev/inspecting-the-toggle)
  <!-- BLOG-POST-LIST:END -->
  
+ ## 🔧 Technologies & Tools
  <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
@@ -49,13 +54,11 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
 
 ### Socials
 
-<p align="left">
-
-<a href="https://www.github.com/DorianCBrwn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<p align="center">
 
 <a href="https://dorianb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
 
-<a href="https://www.linkedin.com/in/dorian-brown-525bb250" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/dorian-brown-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 <a href="https://www.twitter.com/DorianCBrwn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
