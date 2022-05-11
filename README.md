@@ -15,7 +15,7 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
 </a>
 
 <a href="https://www.linkedin.com/in/dorian-brown-dev" target="_blank" rel="noreferrer"> 
-  <img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 
