@@ -57,7 +57,7 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/DorianCBrwn" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorianCBrwn&langs_count=3&theme=dracula&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorianCBrwn&langs_count=5&theme=dracula&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 
 <a href="http://www.github.com/DorianCBrwn">
