@@ -1,3 +1,5 @@
+
+
 Hi 👋 My name is Dorian C Brown and I'm a software engineer at 100Devs. 
 ===============================
 
@@ -56,10 +58,11 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
  
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/DorianCBrwn" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorianCBrwn&langs_count=5&theme=dracula&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
 
+<div align="center">
+	<a href="https://github.com/DorianCBrwn" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorianCBrwn&langs_count=3&theme=dracula&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
 <a href="http://www.github.com/DorianCBrwn">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DorianCBrwn&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="DorianCBrwn's GitHub stats" />
 </a>
@@ -72,6 +75,8 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
 <a href="https://github.com/DorianCBrwn/guess_es">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DorianCBrwn&repo=guess_es&theme=dracula" />
 </a>
+<div>
+
 
 
 
