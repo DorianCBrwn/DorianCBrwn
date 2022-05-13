@@ -60,6 +60,7 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
 </p>
 
 <p align="center"><a href="https://www.codewars.com/users/DorianCBrwn"><img src="https://www.codewars.com/users/DorianCBrwn/badges/small"></a></p>
+
 ## &#x1f4c8; GitHub Stats
 
 <div align="center">
