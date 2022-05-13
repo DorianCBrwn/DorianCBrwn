@@ -1,8 +1,11 @@
+<img align="center" src="https://github.com/DorianCBrwn/DorianCBrwn/blob/7814c3f3cbcffc9aed8f62e105b79069d8b4c6e9/Github_Banner_v1.gif">
+
+
+
 
 
 Hi 👋 My name is Dorian C Brown and I'm a software engineer at 100Devs. 
 ===============================
-
 
 I'm a learn-a-holic who is constatnly working on improving my skills and learning new techniques.
 
@@ -12,18 +15,19 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
 *   ⚡  I also love learning languages so I'm currently learning Spanish too.
 
 ## Lets Connect
-<a href="https://www.twitter.com/DorianCBrwn" target="_blank" rel="noreferrer"> 
-  <img src="https://img.shields.io/twitter/follow/DorianCBrwn?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"> 
-</a>
+<div align="center"
+  <a href="https://www.twitter.com/DorianCBrwn" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/twitter/follow/DorianCBrwn?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"> 
+  </a>
 
-<a href="https://www.linkedin.com/in/dorian-brown-dev" target="_blank" rel="noreferrer"> 
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+  <a href="https://www.linkedin.com/in/dorian-brown-dev" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-<a href="https://dorianb.hashnode.dev/">
-  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
-</a>
-
+  <a href="https://dorianb.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
+  </a>
+</div>
  
  <hr/>
  
@@ -36,7 +40,7 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
  - [Inspecting-the-Toggle](https://dorianb.hashnode.dev/inspecting-the-toggle)
  <!-- BLOG-POST-LIST:END -->
  
- ## 🔧 Technologies & Tools
+ ## 🔧 Skills & Tools
  <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
@@ -55,8 +59,7 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
     <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=cdd148&style=plastic&logo=figma"/>
 </p>
 
- 
-
+<p align="center"><a href="https://www.codewars.com/users/DorianCBrwn"><img src="https://www.codewars.com/users/DorianCBrwn/badges/small"></a></p>
 ## &#x1f4c8; GitHub Stats
 
 <div align="center">
@@ -76,6 +79,9 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DorianCBrwn&repo=guess_es&theme=dracula" />
 </a>
 <div>
+	
+
+
 
 
 
