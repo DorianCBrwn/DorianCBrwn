@@ -10,7 +10,7 @@ Hi 👋 My name is Dorian C Brown and I'm a software engineer at 100Devs.
 I'm a learn-a-holic who is constatnly working on improving my skills and learning new techniques.
 
 *   🌍  I'm based in New Jersey
-*   🧠  I'm learning Javascript and Rust
+*   🧠  I'm learning Typescript
 *   🤝  I'm open to collaborating on awesome Javascript projects
 *   ⚡  I also love learning languages so I'm currently learning Spanish too.
 
