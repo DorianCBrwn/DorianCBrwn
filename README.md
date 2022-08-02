@@ -72,7 +72,7 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
 </a>
 
 <a href="https://github.com/DorianCBrwn/wordle_leaderboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DorianCBrwn&repo=codewars_practice&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DorianCBrwn&repo=wordle_leaderboard&theme=dracula" />
 </a>
 
 
