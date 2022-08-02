@@ -71,7 +71,7 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DorianCBrwn&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="DorianCBrwn's GitHub stats" />
 </a>
 
-<a href="https://github.com/DorianCBrwn/codewars_practice">
+<a href="https://github.com/DorianCBrwn/code-challenges">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DorianCBrwn&repo=codewars_practice&theme=dracula" />
 </a>
 
