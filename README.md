@@ -72,7 +72,7 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
 </a>
 
 <a href="https://github.com/anthonypz/contactr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DorianCBrwn&repo=contactr&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonypz&repo=contactr&theme=dracula" />
 </a>
 
 
