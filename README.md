@@ -71,8 +71,8 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DorianCBrwn&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="DorianCBrwn's GitHub stats" />
 </a>
 
-<a href="https://github.com/anthonypz/contactr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonypz&repo=contactr&theme=dracula" />
+<a href="https://github.com/DorianCBrwn/contactr-local/tree/main">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DorianCBrwn&repo=contactr-local&theme=dracula" />
 </a>
 
 
