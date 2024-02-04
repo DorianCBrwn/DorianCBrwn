@@ -4,7 +4,7 @@
 
 
 
-Hi 👋 My name is Dorian C Brown and I'm a software engineer at 100Devs. 
+Hi 👋 My name is Dorian C Brown 
 ===============================
 
 I'm a learn-a-holic who is constatnly working on improving my skills and learning new techniques.
@@ -12,7 +12,7 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
 *   🌍  I'm based in New Jersey
 *   🧠  I'm learning Typescript
 *   🤝  I'm open to collaborating on awesome Javascript projects
-*   ⚡  I also love learning languages so I'm currently learning Spanish too.
+*   ⚡  I also love learning languages so I'm currently learning Spanish and Japanese too.
 
 ## Lets Connect
 <div align="center"
@@ -51,12 +51,10 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
     <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND&color=4a935c&style=plastic&logo=tailwind-css"/>
     <img src="https://img.shields.io/static/v1?label=|&message=RUBY&color=52985b&style=plastic&logo=ruby"/>
     <img src="https://img.shields.io/static/v1?label=|&message=RAILS&color=cdf998&style=plastic&logo=ruby-on-rails"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=RUST&color=8fbc56&style=plastic&logo=rust"/>
     <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=cdf998&style=plastic&logo=amazon"/>
     <img src="https://img.shields.io/static/v1?label=|&message=PostgreSQL&color=98bf53&style=plastic&logo=postgresql"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=98bf53&style=plastic&logo=git"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=cdd148&style=plastic&logo=figma"/>
 </p>
 
 <p align="center"><a href="https://www.codewars.com/users/DorianCBrwn"><img src="https://www.codewars.com/users/DorianCBrwn/badges/small"></a></p>
