@@ -69,25 +69,9 @@ I'm a learn-a-holic who is constatnly working on improving my skills and learnin
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DorianCBrwn&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="DorianCBrwn's GitHub stats" />
 </a>
 
-<a href="https://github.com/DorianCBrwn/contactr-local/tree/main">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DorianCBrwn&repo=contactr-local&theme=dracula" />
-</a>
-
-
-<a href="https://github.com/DorianCBrwn/apprenti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DorianCBrwn&repo=apprenti&theme=dracula" />
-</a>
 <div>
 	
 
-
-
-
-
-
-
-### If you like my conttributions feel free to buy me Tea/Coffee
-<a href="https://www.buymeacoffee.com/doriancb"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
 
